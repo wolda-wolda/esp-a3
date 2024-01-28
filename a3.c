@@ -2,10 +2,7 @@
 // a3.c
 //
 // A card game for two players which is loosely inspired by Ohanami.
-//
-// Group: Laurenz Fedotoff
-//
-// Author: 12309681
+// 
 //---------------------------------------------------------------------------------------------------------------------
 //
 
