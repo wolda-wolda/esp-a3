@@ -1,3 +1,4 @@
+# This is an assignment from the Graz University of Technology. Test cases are not provided due to copyright.
 # Assignment 3 - SyntaxSakura
 
 ## Introduction
